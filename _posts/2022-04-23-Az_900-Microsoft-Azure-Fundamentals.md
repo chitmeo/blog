@@ -7,6 +7,6 @@
 
 # Over view
 
+<a href="https://docs.google.com/presentation/d/1NEG-0Xx4eUgLoEu1-Fpm42zqbFPeiDxGoWL-BsbtrXw" target="_blank">target blank</a>
 
-
-[AZ 900 Overview slide](https://docs.google.com/presentation/d/1NEG-0Xx4eUgLoEu1-Fpm42zqbFPeiDxGoWL-BsbtrXw)
+[AZ 900 Overview slide](https://docs.google.com/presentation/d/1NEG-0Xx4eUgLoEu1-Fpm42zqbFPeiDxGoWL-BsbtrXw?target=_blank)
