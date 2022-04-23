@@ -3,6 +3,8 @@ title: "Chitmeo's blog"
 description: Personal blog
 theme: minima
 baseurl: ""
-url: "chitmeo.com"
+domain: chitmeo.com
+url: https://chitmeo.com
 email: kyle@chitmeo.com
 github_username: chitmeo
+markdown: kramdown
