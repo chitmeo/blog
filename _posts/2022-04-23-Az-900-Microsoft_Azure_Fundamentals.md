@@ -8,4 +8,4 @@ Describe Azure cost management and Service Level Agreements (10-15%)
 try to link to Power Point file
 
 
-[download file](Link URL)
+[download file](https://github.com/chitmeo/blog/blob/main/_slides/01_Introduction_to_Azure_fundamentals.pptx?raw=true)
