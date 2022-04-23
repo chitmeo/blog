@@ -1,7 +1,7 @@
 layout: page
 title: "Chitmeo's blog"
 description: Personal blog
-theme: jekyll-theme-minimal
+theme: minima
 baseurl: ""
 domain: chitmeo.com
 url: https://chitmeo.com
