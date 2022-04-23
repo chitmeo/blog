@@ -1,8 +1,10 @@
 layout: page
 title: "Chitmeo's blog"
 description: Personal blog
-theme: minima
+theme: jekyll-theme-slate
 baseurl: ""
-url: "chitmeo.com"
+domain: chitmeo.com
+url: https://chitmeo.com
 email: kyle@chitmeo.com
 github_username: chitmeo
+markdown: kramdown
