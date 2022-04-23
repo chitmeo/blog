@@ -1,0 +1,4 @@
+layout: page
+title: "Chitmeo's blog"
+theme: jekyll-theme-hacker
+baseurl: "/blog"
