@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AZ-204: Developing Solutions for Microsoft Azure
+categories: azure
+title: AZ-204 Developing Solutions for Microsoft Azure
 permalink: /az-204/
 ---
 # AZ-204: Developing Solutions for Microsoft Azure
