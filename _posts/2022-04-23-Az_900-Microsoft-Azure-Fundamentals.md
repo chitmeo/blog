@@ -1,4 +1,6 @@
+---
 categories: azure
+---
 1. Describe cloud concepts (20-25%)
 2. Describe core Azure services (15-20%)
 3. Describe core solutions and management tools on Azure (10-15%)

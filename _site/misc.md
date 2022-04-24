@@ -1,6 +1,8 @@
+---
 layout: page
 title: Misc (linh tinh)
-permalink: /misc.html
+permalink: /misc/
+---
 # Misc (linh tinh)
 
 Uncategory 
