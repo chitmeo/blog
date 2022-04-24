@@ -1,4 +1,5 @@
 ---
+layout: post
 categories: azure
 ---
 1. Describe cloud concepts (20-25%)
