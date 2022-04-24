@@ -8,3 +8,4 @@ url: https://chitmeo.com
 email: kyle@chitmeo.com
 github_username: chitmeo
 markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title:output_ext

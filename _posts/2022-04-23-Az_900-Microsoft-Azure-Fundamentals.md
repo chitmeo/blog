@@ -1,3 +1,4 @@
+categories: azure
 1. Describe cloud concepts (20-25%)
 2. Describe core Azure services (15-20%)
 3. Describe core solutions and management tools on Azure (10-15%)
@@ -7,6 +8,6 @@
 
 # Over view
 
-<a href="https://docs.google.com/presentation/d/1NEG-0Xx4eUgLoEu1-Fpm42zqbFPeiDxGoWL-BsbtrXw" target="_blank">target blank</a>
 
-[AZ 900 Overview slide](https://docs.google.com/presentation/d/1NEG-0Xx4eUgLoEu1-Fpm42zqbFPeiDxGoWL-BsbtrXw?target=_blank)
+<a href="https://docs.google.com/presentation/d/1NEG-0Xx4eUgLoEu1-Fpm42zqbFPeiDxGoWL-BsbtrXw" target="_blank">AZ 900 Overview slide</a>
+
