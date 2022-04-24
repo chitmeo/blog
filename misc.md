@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misc (linh tinh)
+title: Misc
 permalink: /misc/
 ---
 # Misc (linh tinh)
