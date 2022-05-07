@@ -1,7 +1,7 @@
 layout: default
 title: "Chitmeo's blog"
 description: Personal blog
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 baseurl: ""
 domain: chitmeo.com
 url: https://chitmeo.com
