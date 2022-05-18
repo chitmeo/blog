@@ -16,7 +16,6 @@ permalink: /javascript/
 | Asynchronous JavaScript | |
 | Client-side web APIs | |
 
-
 ## JavaScript guide
 
     1. JavaScript Guide
