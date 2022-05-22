@@ -23,6 +23,7 @@ permalink: /javascript/
 | JavaScript Guide |                    |
 
 ## Intermediate
+
 | Topic                                           | Slide (vietnamese) |
 | ----------------------------------------------- | ------------------ |
 | Understanding client-side JavaScript frameworks |                    |
@@ -32,6 +33,7 @@ permalink: /javascript/
 | Closures                                        |                    |
 
 ## Advanced
+
 | Topic                               | Slide (vietnamese) |
 | ----------------------------------- | ------------------ |
 | Inheritance and the prototype chain |                    |
