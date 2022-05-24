@@ -1,0 +1,31 @@
+---
+layout: post
+categories: nfr
+title: nfr - None funtional requirement
+permalink: /nfr/
+---
+
+# Web Standard
+
+1. All GUI's will have a standard look and feel of the target Operating System.
+2. All 'grids (lists)' of data shown on screen will not have the functionality to be sorted and filterd by clicking on the appropriate column of that grid.
+3. All deletions to have a confirm (Y/N) for the delete.
+4. When navigating away from added/updated data, the system will prompt a confirm (Y/N) to get consensus to leave the page from end user.
+5. All error messages should try to give suggestions of what the error is and if possible solution(s) to rectify the problem.
+6. When validating input files and importing data users will be supplied with relevant details to diagnose issues i.e. what data is invalid and why it is incorrect
+7. All error messages of the system should be defined uniquely and maintained in a seperate file eg. in Resource file, conf file, etc.
+8. Vertical scrolling is allowable (but paging should be used for search results etc.). Horizontal scrolling should be avoided.
+9. All controls or group of controls will have a text label.
+10. Tab order on the GUI should flow from left to right, top to bottom by default but can be changed by localization if required
+
+# Web Security
+
+# Mobile 
+
+# WCAG 
+
+Web Content Accessibility Guidelines
+
+# GDPR
+
+
