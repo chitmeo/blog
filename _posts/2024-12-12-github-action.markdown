@@ -139,7 +139,7 @@ jobs:
       - name: Run a script
         run: echo "Hello from self-hosted runner!"
 ```
-
+example for dotnet core, reactjs  vite https://github.com/chitmeo/chitmeo/blob/develop/.github/workflows/dotnet-desktop.yml
 ## Maintenance Tips
 
 - **Update the Runner:** Periodically check for updates and download the latest runner version from GitHub.
