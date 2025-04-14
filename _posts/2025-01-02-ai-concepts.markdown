@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick books overview"
-date:   2024-12-13 17:09:25 +0700
+date:   2025-01-02 17:09:25 +0700
 categories: ai 
 ---
 
