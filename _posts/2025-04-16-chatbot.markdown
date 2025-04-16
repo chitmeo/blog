@@ -1,0 +1,86 @@
+---
+layout: post
+title: "Simpoe"
+date: 2025-04-16 17:09:25 +0700
+categories: ai, chatbot
+---
+
+# 🧠 AI Developer Assistant – Python-First Architecture (Full Stack in Python)
+
+## Overview
+
+```
++-------------------------------+
+|     User Interface (UI)      | <-- Streamlit / Gradio / FastAPI + JS
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|         API Server            | <-- FastAPI or Flask
+|  (Handles questions, routing) |
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|   Question Processing Logic   |
+|  (Preprocessing, sanitizing)  |
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|      Embedding Generator      | <-- OpenAI Embedding API /
+| (Transform question & docs)   |     SentenceTransformer
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|       Vector Store (DB)       | <-- Chroma DB (local),
+|  (Index of your knowledge)    |     Weaviate, FAISS
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|    Retriever & Context Builder|
+| (Find related chunks for input)|
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|      LLM Inference Engine     | <-- GPT-4 API, Ollama + Mistral/LLaMA
+| (Generate human-like answer)  |
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|     Post-Processor / Formatter|
+| (Style it like your writing)  |
++---------------+--------------+
+                |
+                v
++-------------------------------+
+|           UI / Bot            |
++-------------------------------+
+
+
+```
+
+## 📂 Knowledge Sources
+
+| Source          | Description               | Notes                                 |
+| --------------- | ------------------------- | ------------------------------------- |
+| Your Blog/Notes | Markdown, HTML, TXT       | Parse and chunk using LangChain tools |
+| Dev.to, Medium  | RSS or scraped            | Use feedparser, newspaper3k, etc.     |
+| GitHub Trending | Readme, issues, PR titles | GitHub API or scraping                |
+| Stack Overflow  | Tag-specific crawl        | Use StackExchange API                 |
+
+## ⚙️ Recommended Python Tech Stack
+
+| Component          | Suggested Tools/Libraries                        |
+| ------------------ | ------------------------------------------------ |
+| UI                 | Streamlit, Gradio, Telegram Bot                  |
+| API Backend        | FastAPI                                          |
+| Embedding          | openai, sentence-transformers                    |
+| Vector DB          | ChromaDB, FAISS, Weaviate                        |
+| Retrieval + Prompt | LangChain, or custom logic                       |
+| LLM (Answer Gen)   | GPT-4 (API), Ollama + LLaMA/Mistral              |
+| Scraping           | BeautifulSoup, newspaper3k, feedparser, requests |
