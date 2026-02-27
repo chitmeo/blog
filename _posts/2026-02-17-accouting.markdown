@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Accounting - Introduction"
+date: 2026-02-27 10:35:25 +0700
+categories: Accounting
+---
 # KHÁI NIỆM VỀ KẾ TOÁN & CHART OF ACCOUNTS THEO VAS VÀ IFRS
 
 ---
