@@ -1,0 +1,115 @@
+---
+layout: post
+title: "Machine Learning - Introduction"
+date: 2025-06-27 10:35:25 +0700
+categories: Machine Learning, AI
+---
+
+# Giới thiệu về Machine Learning
+
+## Machine Learning là gì?
+
+Machine Learning (ML) là một nhánh của **Artificial Intelligence (AI)**, cho phép các hệ thống **tự động học hỏi và cải thiện** từ kinh nghiệm mà không cần lập trình rõ ràng.
+
+Nó tập trung vào phát triển các chương trình máy tính có thể **truy cập và sử dụng dữ liệu** để học và cải thiện hiệu suất theo thời gian.
+
+Ví dụ: Bạn huấn luyện một con chó bằng cách thưởng khi nó làm đúng và phạt khi sai. Theo thời gian, con chó học được hành vi đúng. Tương tự, bạn có thể huấn luyện một mô hình máy học để dự đoán hoặc phân loại bằng cách cung cấp dữ liệu đầu vào và kết quả mong muốn.
+
+---
+
+## Tại sao cần Machine Learning?
+
+Trong thời đại hiện nay, **khối lượng dữ liệu rất lớn** và đang tăng lên theo cấp số nhân. Dữ liệu đến từ nhiều nguồn: cảm biến, thiết bị di động, mạng xã hội, ứng dụng, web, v.v.
+
+Con người không thể xử lý và phân tích dữ liệu khổng lồ này một cách thủ công. **Machine Learning giúp xử lý và khai thác giá trị tiềm năng từ dữ liệu.**
+
+Một số lợi ích:
+- Xử lý khối lượng dữ liệu lớn hiệu quả
+- Cải thiện độ chính xác của quyết định
+- Tự động hóa tác vụ
+- Cá nhân hóa trải nghiệm người dùng
+- Khả năng thích nghi khi dữ liệu thay đổi
+
+---
+
+## Ví dụ thực tế về Machine Learning
+
+1. **Nhận dạng giọng nói**: Chuyển đổi lời nói thành văn bản (như Google Assistant, Siri).
+2. **Phân loại email**: Phân biệt email spam và không spam.
+3. **Dự báo thời tiết**: Sử dụng dữ liệu lịch sử để dự đoán thời tiết tương lai.
+4. **Gợi ý sản phẩm**: Dựa trên hành vi người dùng để đề xuất sản phẩm/phim phù hợp.
+5. **Phát hiện gian lận**: Nhận diện giao dịch bất thường trong ngân hàng/tài chính.
+6. **Xe tự lái**: Nhận diện làn đường, biển báo và người đi bộ.
+
+---
+
+## Các loại Machine Learning
+
+### 1. Supervised Learning
+- Dữ liệu đầu vào đã có nhãn (labeled data).
+- Mô hình học từ dữ liệu quá khứ để đưa ra dự đoán cho dữ liệu mới.
+- Ví dụ: Dự đoán giá nhà dựa trên diện tích, vị trí.
+
+### 2. Unsupervised Learning
+- Dữ liệu không có nhãn (unlabeled).
+- Mô hình cố gắng tìm ra cấu trúc tiềm ẩn hoặc phân nhóm trong dữ liệu.
+- Ví dụ: Phân cụm khách hàng dựa trên hành vi mua hàng.
+
+### 3. Reinforcement Learning
+- Một "agent" học cách tương tác với môi trường bằng cách nhận phản hồi dưới dạng phần thưởng hoặc hình phạt.
+- Ví dụ: AI chơi cờ, robot học cách tránh vật cản.
+
+---
+
+## Ứng dụng của Machine Learning
+
+Machine Learning có mặt trong nhiều lĩnh vực khác nhau:
+
+- **Ngân hàng & Tài chính**: Phát hiện gian lận, đánh giá rủi ro tín dụng
+- **Chăm sóc sức khỏe**: Chẩn đoán bệnh, phân tích ảnh y khoa
+- **Bán lẻ & Thương mại điện tử**: Gợi ý sản phẩm, phân tích hành vi khách hàng
+- **Ô tô**: Xe tự lái, hỗ trợ lái xe nâng cao
+- **Giải trí**: Gợi ý phim, âm nhạc cá nhân hóa
+- **An ninh mạng**: Phát hiện tấn công mạng bất thường
+
+---
+
+## Lịch sử của Machine Learning
+
+| Mốc thời gian | Sự kiện |
+|---------------|---------|
+| 1950s         | Alan Turing đưa ra bài kiểm tra Turing cho trí tuệ nhân tạo |
+| 1959          | Arthur Samuel tạo chương trình chơi cờ "checkers" có khả năng học |
+| 1997          | IBM Deep Blue đánh bại kỳ thủ cờ vua Garry Kasparov |
+| 2006          | Geoffrey Hinton phổ biến "Deep Learning" |
+| Ngày nay      | ML hiện diện trong hầu hết công nghệ hiện đại: smartphone, tìm kiếm, mạng xã hội, v.v. |
+
+---
+
+## Ưu điểm của Machine Learning
+
+- **Phát hiện mẫu dữ liệu phức tạp**
+- **Học hỏi và cải thiện liên tục**
+- **Tự động hóa quy trình**
+- **Thích nghi với dữ liệu mới**
+- **Cá nhân hóa sản phẩm/dịch vụ**
+
+---
+
+## Hạn chế của Machine Learning
+
+- Cần lượng dữ liệu lớn để huấn luyện hiệu quả
+- Cần tài nguyên tính toán mạnh (CPU/GPU)
+- Dễ bị ảnh hưởng bởi dữ liệu thiên lệch (bias)
+- Một số mô hình khó giải thích (black-box)
+- Rủi ro về quyền riêng tư và đạo đức nếu không kiểm soát tốt
+
+---
+
+## Tóm tắt
+
+Machine Learning là công nghệ mạnh mẽ giúp máy tính học từ dữ liệu và tự cải thiện qua thời gian. Nó đóng vai trò quan trọng trong nhiều lĩnh vực từ y tế, tài chính đến thương mại và giao thông. Nắm vững kiến thức nền tảng về ML sẽ mở ra cơ hội lớn trong sự nghiệp phát triển phần mềm, khoa học dữ liệu và trí tuệ nhân tạo.
+
+
+
+

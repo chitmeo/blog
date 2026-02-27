@@ -1,0 +1,97 @@
+---
+layout: post
+title: "Machine Learning (ML) Tutorial"
+date: 2025-06-27 10:35:25 +0700
+categories: Machine Learning, AI
+---
+
+# Machine Learning (ML) Tutorial
+
+Hướng dẫn này cung cấp cái nhìn toàn diện về Machine Learning, bao gồm các thuật toán, kỹ thuật, ứng dụng thực tiễn và ví dụ đời thực.:contentReference[oaicite:1]{index=1}
+
+---
+
+## 1. Machine Learning là gì
+
+**Machine Learning (ML)** là một nhánh của **Artificial Intelligence (AI)**, phát triển các thuật toán và mô hình thống kê cho phép máy tính **học từ dữ liệu** và đưa ra dự đoán hoặc quyết định mà không cần lập trình thủ công.
+
+---
+
+## 2. Quá trình hoạt động của Machine Learning
+
+Quy trình ML gồm các bước chính:
+
+1. **Project Setup**
+2. **Data Preparation**
+3. **Modeling**
+4. **Deployment**
+
+---
+
+## 3. Các giai đoạn trong Machine Learning
+
+Mô tả chu trình chi tiết:
+
+- **Data Collection**: thu thập dữ liệu (SQL, CSV, hình ảnh, âm thanh, web scraping)
+- **Data Pre‑processing**: làm sạch, xử lý giá trị thiếu, chuẩn hóa dữ liệu
+- **Choosing the Right Model**: chọn mô hình phù hợp (hồi quy tuyến tính, cây quyết định, neural network…)
+- **Training the Model**: huấn luyện mô hình trên dữ liệu
+- **Evaluating the Model**: đánh giá trên dữ liệu mới
+- **Hyperparameter Tuning and Optimization**: tinh chỉnh tham số bằng cross-validation
+- **Predictions and Deployment**: dự đoán và triển khai mô hình vào môi trường thực tế
+
+---
+
+## 4. Các loại Machine Learning
+
+1. **Supervised Machine Learning** – học với dữ liệu đã gán nhãn  
+2. **Unsupervised Machine Learning** – phát hiện cấu trúc trong dữ liệu chưa gán nhãn  
+3. **Semi‑supervised Learning** – kết hợp dữ liệu gán nhãn và chưa gán nhãn  
+4. **Reinforcement Machine Learning** – học bằng thử nghiệm và phản hồi từ môi trường
+
+---
+
+## 5. Các thuật toán ML phổ biến
+
+- **Neural Networks** – mô phỏng mạng nơ‑ron, dùng trong NLP, nhận diện hình ảnh, âm thanh  
+- **Linear Regression** – dự đoán giá trị liên tục (ví dụ: giá nhà)  
+- **Logistic Regression** – phân loại nhị phân (ví dụ: spam/non‑spam)  
+- **Clustering** – phân nhóm tự động  
+- **Decision Trees** – dễ giải thích, dùng cho phân loại và hồi quy  
+- **Random Forests** – kết hợp nhiều cây quyết định để tăng độ chính xác
+
+---
+
+## 6. Tầm quan trọng của Machine Learning
+
+- **Xử lý dữ liệu lớn**: khám phá mẫu, xu hướng ẩn trong dữ liệu  
+- **Insights từ dữ liệu**: hỗ trợ đưa ra quyết định chính xác  
+- **Tự động hóa**: giảm lỗi, tiết kiệm thời gian  
+- **Cá nhân hóa**: đề xuất theo hành vi người dùng  
+- **Dự báo**: ứng dụng trong tài chính, quản lý rủi ro  
+- **Nhận diện mẫu**: trong CV, NLP  
+- **Phát hiện gian lận & bảo mật**  
+- **Cải tiến liên tục**: mô hình tự thích nghi với dữ liệu mới
+---
+
+## 7. Ứng dụng của Machine Learning
+
+- **Speech Recognition**: chuyển giọng nói thành văn bản (ví dụ: Siri)  
+- **Customer Service / Chatbots**: hỗ trợ tự động qua web, social  
+- **Computer Vision**: phân tích hình ảnh/video (y tế, xe tự lái…)  
+- **Recommendation Engines**: đề xuất sản phẩm/phim/dịch vụ  
+- **Robotic Process Automation (RPA)**: tự động hóa các tác vụ lặp lại  
+- **Automated Stock Trading**: giao dịch tài chính tự động  
+- **Fraud Detection**: phát hiện giao dịch gian lận thời gian thực
+
+---
+
+## 8. Đối tượng phù hợp và kiến thức cần chuẩn bị
+
+- **Đối tượng**: người mới học đến nâng cao về ML, AI  
+- **Yêu cầu nền tảng**:
+  - Hiểu dữ liệu: có cấu trúc, phi cấu trúc, dữ liệu nhãn  
+  - Biết về **feature extraction** từ dữ liệu  
+  - Có kiến thức cơ bản về **AI**, thống kê, xử lý dữ liệu
+---
+
